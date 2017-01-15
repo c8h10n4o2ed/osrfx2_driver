@@ -1,0 +1,16 @@
+# Project Binaries
+bin/**
+
+# CMake Project Files
+CMakeCache.txt
+CMakeFiles/**
+*.cmake
+Makefile
+
+# SlickEdit Project Files
+*.vpw
+*.vpwhistu
+*.vpj
+*.vtg
+.project
+/CMakeFiles/
